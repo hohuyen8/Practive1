@@ -49,7 +49,7 @@ header nav .special {
   font-weight: 900;
   font-size: 1.6rem;
 }
-#header {
+.header {
   background: url(img/Path-2.png);
   text-align: center;
   display: inline-block;
@@ -57,19 +57,19 @@ header nav .special {
   height: 24rem;
   margin-top: 5rem;
 }
-#header h1 {
+.header h1 {
   margin-top: 5rem;
   font-weight: 700;
   color: #ffffff;
   margin-bottom: 0;
   font-size: 4.5rem;
 }
-#header p {
+.header p {
   margin-top: 0.5rem;
   color: #ffffff;
   font-size: 1.5rem;
 }
-#header .Mask-Group-1 {
+.header .Mask-Group-1 {
   position: absolute;
   top: 10rem;
   right: 8rem;
@@ -131,44 +131,44 @@ header nav .special {
 } */
 
 /***************************** path 1 ********************************/
-#is-box_shadow {
+.is-box_shadow {
   margin: 3rem 9rem 0 9rem;
   box-shadow: 0 0.3rem 1rem #00000029;
   display: flex;
   flex-direction: column;
 }
-#is-box_shadow #path-1 {
+.is-box_shadow .path-1 {
   display: flex;
   flex-direction: row;
   padding-bottom: 2rem;
 }
-#is-box_shadow #path-1 div {
+.is-box_shadow .path-1 div {
   margin-left: 4.5rem;
   margin-right: 5.5rem;
 }
-#is-box_shadow #path-1 div p {
+.is-box_shadow .path-1 div p {
   line-height: 2.1rem;
   margin-top: 0.5rem;
   font-size: 1.3rem;
   font-weight: 400;
   color: #5747478a;
 }
-#is-box_shadow #path-1 div h1 {
+.is-box_shadow .path-1 div h1 {
   margin-top: 3.5rem;
   font-size: 1.7rem;
   font-weight: 500;
   color: #0000008a;
 }
-#is-box_shadow hr {
+.is-box_shadow hr {
   height: 0.01rem;
   color: #70707080;
   width: 79.4vw;
 }s
 /***************************** path 2 ********************************/
-#is-box_shadow #path-2 {
+.is-box_shadow .path-2 {
   margin: 0rem 4rem 2rem 4rem;
 }
-#is-box_shadow #path-2 #Group {
+.is-box_shadow .path-2 .Group {
   display: flex;
   flex-direction: row;
   margin-left: 11rem;
@@ -176,17 +176,17 @@ header nav .special {
   color: #0000008a;
 }
 
-#is-box_shadow .title {
+.is-box_shadow .title {
   font-size: 2rem;
   font-weight: 500;
   color: #0000008a;
 }
-#is-box_shadow #path-2 #Group p {
+.is-box_shadow .path-2 .Group p {
   font-size: 1.6rem;
   font-weight: 400;
   margin-right: 5rem;
 }
-#is-box_shadow button {
+.is-box_shadow button {
   border-radius: 50%;
   border: 1px solid #ffffff;
   width: 3.5rem;
@@ -194,57 +194,57 @@ header nav .special {
   margin-top: 7rem;
   box-shadow: 0 1px 8px 0 #000000;
 }
-#is-box_shadow #path-2 .img {
+.is-box_shadow .path-2 .img {
   width: 17.9vw;
   height: 20vh;
   padding-top: 1.7rem;
   margin-right: 5.5rem;
 }
-#is-box_shadow #path-2 button img {
+.is-box_shadow .path-2 button img {
   width: 0.7rem;
   height: 1.3rem;
 }
 
 /***************************** path 3 ********************************/
-#is-box_shadow #path-3 {
+.is-box_shadow .path-3 {
   margin-left: 4rem;
   margin-right: 2rem;
 }
-#is-box_shadow #path-3 .group {
+.is-box_shadow .path-3 .group {
   display: flex;
   flex-direction: row;
   margin-left: 11rem;
   text-align: center;
 }
-#is-box_shadow #path-3 .group div {
+.is-box_shadow .path-3 .group div {
   width: 24.5rem;
   box-shadow: 0px 3px 10px #00000029;
   border-radius: 0.5rem;
   margin-bottom: 5rem;
   margin-right: 5rem;
 }
-#is-box_shadow #path-3 .group div h1 {
+.is-box_shadow .path-3 .group div h1 {
   height: 3.7rem;
   margin: 2.7rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 2.5rem;
 }
-#is-box_shadow #path-3 .group div p {
+.is-box_shadow .path-3 .group div p {
   margin: 2rem;
   font-size: 1.3rem;
   font-weight: 400;
   line-height: 2rem;
   color: #0000008a;
 }
-#is-box_shadow #path-3 .group button {
+.is-box_shadow .path-3 .group button {
   margin-left: 1rem;
 }
-#is-box_shadow #path-3 .group button img {
+.is-box_shadow .path-3 .group button img {
   width: 0.7rem;
   height: 1.3rem;
 }
-#is-box_shadow #path-3 hr {
+.is-box_shadow .path-3 hr {
   height: 0.3rem;
   background-color: #ff4081;
   width: 10rem;
